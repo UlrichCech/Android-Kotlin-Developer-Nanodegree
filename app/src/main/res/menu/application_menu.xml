@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- The ID must exactly match the ID of the fragment, where to navigate to -->
+    <item
+        android:id="@+id/loginFragment"
+        android:title="@string/shoelist_menu_logout" />
+</menu>

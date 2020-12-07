@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+
+    <string name="login_email_label">E-Mail</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_signin_button_label">Sign In</string>
+    <string name="login_signup_button_label">Sign Up</string>
+    <string name="login_header">Login</string>
+
+    <string name="welcome_header">Welcome to the Shoe Store</string>
+    <string name="welcome_description">"This is the Shoe-Store for Android-devices.\nWe hope you enjoy managing shoes with this app."</string>
+    <string name="welcome_instructions_button_label">Instructions</string>
+
+    <string name="instruction_header">Instructions</string>
+    <string name="instruction_content">"After successful log-in, you see a welcome- and this instruction-screen.\n\n\nIn the following 'main' view, all available shoes are displayed and you can scroll through the list.\n\nWith the floating 'plus' button, you open a screen for adding a new shoe to the list.\n\nFinally, the Logout-menu logs you out and brings you back to the login-screen.\n\n\nEnjoy!"</string>
+    <string name="instruction_shoelist_button_label">Show Shoe-list</string>
+
+    <string name="shoelist_details_button_description">Open the shoe details screen</string>
+
+    <string name="shoedetails_save_button_label">Save Shoe</string>
+    <string name="shoedetails_cancel_button_label">Cancel</string>
+    <string name="shoedetails_header">Add new shoe</string>
+    <string name="shoedetails_name_view">Name</string>
+    <string name="showdetails_company_view" >Company</string>
+    <string name="shoedetails_size_view" >Shoe Size</string>
+    <string name="showdetails_description_view">Description</string>
+
+    <string name="shoelist_menu_logout">Logout</string>
+</resources>
